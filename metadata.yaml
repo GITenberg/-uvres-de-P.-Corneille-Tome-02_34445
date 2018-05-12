@@ -1,0 +1,45 @@
+_repo: -uvres-de-P.-Corneille-Tome-02_34445
+_version: 0.1.0
+alternative_title: Oeuvres de P. Corneille, Tome 02
+contributor:
+  commentator:
+    agent_name: Marty-Laveaux, Charles Joseph
+    aliases:
+    - Marty-Laveaux, Ch. (Charles Joseph)
+    - Marty-Laveaux, Ch. (Charles)
+    birthdate: 1823
+    deathdate: 1899
+    gutenberg_agent_id: '37028'
+    url: http://www.gutenberg.org/2009/agents/37028
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2010-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34445'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama (Tragedy) -- 17th century'
+tableOfContents: "-- La Galerie du Palais, comédie\r\n-- La Suivante, comédie\r\n\
+  -- Place Royale, comédie\r\n-- la Comédie des Tuileries, par les cinq auteurs (MM.\
+  \ de Boisrobert, Corneille, Colletet, de l'Estoile et Rotrou)\r\n-- Médée, tragédie\r\
+  \n-- L'Illusion, comédie"
+title: Œuvres de P. Corneille, Tome 02
+url: http://www.gutenberg.org/ebooks/34445
